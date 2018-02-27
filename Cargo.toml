@@ -1,12 +1,12 @@
 [package]
 name = "vision"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["James Lucas <lucasj94@hotmail.co.uk>"]
 
 categories = ["science"]
 description = "Computer vision benchmarking datasets"
 repository = "https://github.com/AtheMathmo/vision-rs"
-documentation = "https://doc.rs/vision"
+documentation = "https://docs.rs/vision"
 keywords = ["vision","datasets","mnist","machine-learning"]
 readme = "README.md"
 license = "MIT"
